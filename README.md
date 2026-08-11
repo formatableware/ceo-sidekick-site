@@ -34,7 +34,7 @@ Google OAuth verification wants a homepage on a domain you demonstrably own.
 
 ## Editing
 
-Colours in `_style.css` mirror `src/constants/theme.js` in the app repo. If the
+Colours in `style.css` mirror `src/constants/theme.js` in the app repo. If the
 brand palette changes there, change it here too.
 
 ## Before submitting to Google or Apple
