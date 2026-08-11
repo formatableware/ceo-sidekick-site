@@ -36,3 +36,9 @@ Google OAuth verification wants a homepage on a domain you demonstrably own.
 
 Colours in `_style.css` mirror `src/constants/theme.js` in the app repo. If the
 brand palette changes there, change it here too.
+
+## Before submitting to Google or Apple
+
+1. Replace `support@example.com` throughout (10 occurrences across the three pages).
+2. Remove the `<meta name="robots" content="noindex">` tag from all three pages —
+   it is only there to keep the placeholder-contact version out of search results.
